@@ -18,6 +18,7 @@ int main() {
 		x = 10*id;
 		sid=id*10;
 		eid=(id+1)*10;
+
 		for(i=sid;i<=eid;i++){
 			c[i]=a[i]+b[i];
 		}

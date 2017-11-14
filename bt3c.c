@@ -2,6 +2,7 @@
 #include<stdlib.h>
 #include<stdio.h>
 #include<malloc.h>
+
 #define N 1000
 
 //tim max cua 1 mang gom N phan tu, so sanh 2 truong hop chay 1 luong va chay da luong
@@ -43,6 +44,6 @@ int main() {
 	}
 
 	printf("\n[chay da luong] Phan tu max cua a[] = %d \n",max);
-	
+
 	return 0;
 }
